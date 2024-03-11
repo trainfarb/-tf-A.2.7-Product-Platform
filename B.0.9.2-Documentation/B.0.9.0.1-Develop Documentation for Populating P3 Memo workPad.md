@@ -88,10 +88,10 @@ We will share a brief essay expressing the value provided by today's work to hu3
 
 #### Team
 `Who is involved in contributing to today's platform?`  
-OWNER: Make Light of It
-PRODUCER: trainfarb
-PROVIDER: hu3agency
-CONSUMER: ourStory
+OWNER: Make Light of It  
+PRODUCER: trainfarb  
+PROVIDER: hu3agency  
+CONSUMER: ourStory  
 
 ### H.4.5.1 Theories
 ### H.4.5.2 Experiments
