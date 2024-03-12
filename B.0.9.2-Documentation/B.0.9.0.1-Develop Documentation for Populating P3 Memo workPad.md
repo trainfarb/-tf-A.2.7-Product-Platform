@@ -118,7 +118,7 @@ Final Output: https://github.com/deg-entreprises/A.2.7-Meeting-Platform/blob/4cd
   - 00:44:03 START - Add a link from DEG's GitHub Repository to this Documentation markdown file - END 00:45:25
   - 00:45:37 START - Add a link from this Documentation markdown file to DEG's GitHub Repository - END 00:49:11
   - 00:49:23 START - Paste completed memo to DEG's GitHub Project for today - END 00:53:14
-- [[DEG] B.0.9.0.1 - Publish A.2.7.0 Agenda to DEG's GitHub Repository and Project](https://www.loom.com/share/3be8a17a16154ad09233e115805a084c?sid=76ed5239-7622-43e9-a59a-0541ae367d16)
+- 40 Minutes: [[DEG] B.0.9.0.1 - Publish A.2.7.0 Agenda to DEG's GitHub Repository and Project](https://www.loom.com/share/3be8a17a16154ad09233e115805a084c?sid=76ed5239-7622-43e9-a59a-0541ae367d16)
   - 00:01:10 START - Outline steps to create today's agenda - END 00:05:53 
   - 00:06:04 START - Paste agenda markdown template into this documentation markdown file - END 00:17:22
   - 00:17:29 START - Create prompt for turning memo into agenda - END 00:24:40
