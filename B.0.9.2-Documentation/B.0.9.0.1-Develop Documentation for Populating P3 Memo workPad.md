@@ -3,6 +3,44 @@
 
 ## A.2.7 Meeting Platform
 ### A.2.7.0 Meeting Memo
+#### Purpose [X.#.#.0]
+`What is the purpose of your platform and what is your current focus?`  
+[RESPONSE]
+
+#### Problem [X.#.#.0]
+`What is the problem associated with today's meeting?`  
+[RESPONSE]
+
+#### Solution [X.#.#.0]
+`How will this meeting work towards a solution?`  
+[RESPONSE]
+
+#### Market [X.#.#.0]
+`What risks will this solution help mitigate?`  
+[RESPONSE]
+
+#### Product [X.#.#.0]
+`What will be the final result that represents a successful meeting outcome?`  
+[RESPONSE]
+
+#### Distribution [X.#.#.0]
+`How will you share the successful meeting outcome with the open source community?`  
+[RESPONSE]
+
+#### Actions [H.5.4.0]
+`What actions will you track as this story evolves?`  
+- [ ] Complete X.#.#.0 [PLATFORM] Memo Outline
+- [ ] Complete X.#.#.1 Theories (Agenda) for today's work
+- [ ] Complete X.#.#.2 Experiments (Minutes) for today's work
+- [ ] Complete X.#.#.3 Essays (Debrief) for today's work
+
+#### Team [H.5.4.0]
+`Who is involved in contributing to today's platform?`  
+- OWNER: [OWNER]  
+- PRODUCER: trainfarb  
+- PROVIDER: hu3agency  
+- CONSUMER: ourStory
+
 ### A.2.7.1 Agendas
 ### A.2.7.2 Minutes
 ### A.2.7.3 Debriefs
