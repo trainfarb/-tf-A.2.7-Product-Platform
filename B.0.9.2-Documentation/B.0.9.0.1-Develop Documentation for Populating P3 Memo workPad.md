@@ -124,6 +124,8 @@ We will share a brief essay expressing the value provided by today's work to hu3
     - Offered to reduce the charge from $467.64 to $323.64 (highlights risk with using centralized companies who can arbitrarily raise and lower the prices to benefit themselves
     - Provided this link to confirm refund https://account.godaddy.com/receipts?plid=1
       - Refund will appear back on the account within 5-7 business days
+      - ![Screenshot 2024-03-11 at 7 39 47 PM](https://github.com/trainfarb/B.0.9-Onboarding-Platform/assets/8133349/1c5d33be-7a8e-4430-b474-4725c98ceba1)
+
 
 ### H.4.5.3 Essays
 
