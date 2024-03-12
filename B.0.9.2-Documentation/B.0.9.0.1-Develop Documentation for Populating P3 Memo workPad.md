@@ -52,7 +52,7 @@ Final Output: https://github.com/deg-entreprises/A.2.7-Meeting-Platform/blob/bbc
 
 ### A.2.7.1 Agendas
 ### A.2.7.2 Minutes
-- [[DEG] B.0.9.0.1 - Publish A.2.7.0 Memo to DEG's GitHub Repository and Project](https://www.loom.com/share/09dae8340ec64488b1769b05b627fc07?sid=923bbf03-b544-47a2-8f41-d0491f98354a)
+- 54 Minutes: [[DEG] B.0.9.0.1 - Publish A.2.7.0 Memo to DEG's GitHub Repository and Project](https://www.loom.com/share/09dae8340ec64488b1769b05b627fc07?sid=923bbf03-b544-47a2-8f41-d0491f98354a)
   - 00:07:45 START - Populate Memo template for DEG's focus for B.0.9.2 - END 00:28:48
   - 00:29:00 START - Develop Prompt to transform Memo template into a more professional format - END 00:36:18
     - Go to HuggingChat to review previous prompt
