@@ -52,14 +52,7 @@ Final Output: https://github.com/deg-entreprises/A.2.7-Meeting-Platform/blob/bbc
 
 ### A.2.7.1 Agendas
 ### A.2.7.2 Minutes
-
-### A.2.7.3 Debriefs
-
-## B.0.9 Onboarding Platform
-### B.0.9.0 Onboarding Memo
-### B.0.9.1 Prompts
-### B.0.9.2 Documentation
-- B.0.9.0.1 - Publish A.2.7.0 Memo to DEG's GitHub Repository and Project
+- [[DEG] B.0.9.0.1 - Publish A.2.7.0 Memo to DEG's GitHub Repository and Project](https://www.loom.com/share/09dae8340ec64488b1769b05b627fc07?sid=923bbf03-b544-47a2-8f41-d0491f98354a)
   - 00:07:45 START - Populate Memo template for DEG's focus for B.0.9.2 - END 00:28:48
   - 00:29:00 START - Develop Prompt to transform Memo template into a more professional format - END 00:36:18
     - Go to HuggingChat to review previous prompt
@@ -71,8 +64,14 @@ Final Output: https://github.com/deg-entreprises/A.2.7-Meeting-Platform/blob/bbc
     - Copy output Meeting Memo Output from HuggingChat
     - Create new file in DEG's repository for today
   - 00:44:03 START - Add a link from DEG's GitHub Repository to this Documentation markdown file - END 00:45:25
-  - 00:45:37 START - Add a link from this Documentation markdown file to DEG's GitHub Repository
-  - Paste completed memo to DEG's GitHub Project for today
+  - 00:45:37 START - Add a link from this Documentation markdown file to DEG's GitHub Repository - END 00:49:11
+  - 00:49:23 START - Paste completed memo to DEG's GitHub Project for today - END 00:53:14
+### A.2.7.3 Debriefs
+
+## B.0.9 Onboarding Platform
+### B.0.9.0 Onboarding Memo
+### B.0.9.1 Prompts
+### B.0.9.2 Documentation
 ### B.0.9.3 Models
 
 ## B.9.0 Training Platform
