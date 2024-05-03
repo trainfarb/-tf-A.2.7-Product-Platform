@@ -1,0 +1,60 @@
+# Problem Definition
+## Goal
+Digitize v0.0 of process for turning investment memo into a training website
+
+## Problem Solving Agents
+OWNER: DEG Entreprises
+PRODUCER: trainfarb: am i wrong?
+PROVIDER: hu3agency: we're all right
+CONSUMER: ourStory: Everything Is Music
+
+# Problem Decomposition
+## Initial State
+B.9.0: Education Institutions don’t teach people how to create platforms and MSMEs don’t have the resources to hire all of the executives needed.
+- Unfocused: Fragmented approach to problems. Ex. People need investment memos to create a website, but once it’s done, it can’t be easily translated into other parts of the project.
+- Unproductive: People don’t collaborate. Too much is closed source, so we’re always reinventing the wheel. Ex. People spend so much time and money on creating websites that they don’t even use. Websites to correlate to their day to day business. Waste of energy.
+- Uncreative: People don’t know how to clearly tell the story of the value they provide. Ex. People waste time on social media, but many can’t clearly say how something their sharing tangibly adds value to a part of their business.
+
+## Actions
+B.9.0 Internal Developer Training Platform: Open Source Executive training platform that teaches people/MSMEs how to create and manage platform ecosystems.
+- Focused: Teach how the Onboarding API makes Investment Memos more valuable by turning them into agendas/action items that each platform team can act on.
+- Productive: Teach how the Onboarding API translates investment memo directly into a website that acts as the face of your platform’s operating system. Onboarding API allows people to create a well designed website in a single day instead of a month or more.
+- Creative: Teach how the Onboarding API translates investment memo into a collaborative content strategy that shares your value in an intentional way to grow a more supportive and engaged network.
+
+# Problem Reframing
+## Transition Models
+Build your Open Source Executive training platform in 1-day: trainfarb empowers MSMEs to create their own Open Source Executive Training Platforms
+1. Digitize 4-Part DEG Investment Memo to Google Docs (tomorrow will be GitHub Repository and Google Workspace) - Investment Memo designed for Platforms. Event streaming.
+2. Digitize 4-Part trainfarb Onboarding Agenda to GitHub Repository and GitHub Project - AI Problem Formulation Application structured agenda to create an API that turns Investment Memo into 9 part platform ecosystem
+3. Digitize 4-Part hu3agency Training Minutes to GitHub Repository and Framer Website - Documentation Programming that helps people understand how to operate within the ecosystem.
+4. Digitize 4-Part ourStory Governance Debrief to GitHub Repository and BlenderBIM Model - 3D Model interface that helps people visualize how the day's work is helping add value to the platform.
+
+## Goal Test & Path Cost
+People can incorporate this into their business in one of 4 ways:
+- Free Documentation (Suggested tip of $0.32142857) - Do It Yourself. Free documentation. Lifetime access to community for help.
+- $117.8571 - Do It Yourself. 30 Minute consulting call. Lifetime access to community for help.
+- $428.571 - We create everything for you + 30 Minute discovery call
+- $12.8571 - Do It Yourself. No call. Lifetime access to community for help.
+
+# Constraint Design
+## Solution
+BlenderBIM Model Walkthrough/Debrief as Community Development Vision. Structured like a newsletter from Morning Brew.
+- Visualize Investment Memo
+- Visualize Onboarding Agenda
+- Visualize Training Minutes
+- Visualize Governance Debrief
+
+## Optimal Solution
+ep0_playTheFool: epicPlaylist comic strip that tracks work to find people to create 1-day websites for
+- Number of Owner's Reps onboarded
+- Number of Property Managers Onboarded
+- Number of Farms Onboarded
+- Number of Wellness Centers Onboarded
+
+# Problem Definition
+## Future States
+Tomorrow's goals
+1. Digitize 4-Part DEG Investment Memo to GitHub Repository and Google Docs
+2. Digitize 4-Part trainfarb Onboarding Agenda to GitHub Repository and GitHub Project
+3. Digitize 4-Part hu3agency Training Minutes to GitHub Repository and Framer Website
+4. Digitize 4-Part ourStory Governance Debrief to GitHub Repository and BlenderBIM Model
