@@ -1,87 +1,42 @@
 # B.0.9.3 Scope Statement
 
-\## Project Goals
+### Project Goals
 
-The primary goal of this project is to build the B.0.9.3 Digital Twin Wallet documentation for oS3. This documentation will assist Micro-Enterprises in creating a Digital Twin Wallet for the Open Source Chief Language Officer. The Digital Twin Wallet provides a visual representation of the Open Source Executives integrated into a Micro-Enterprise's operations. This tool will aid in onboarding Open Source Executives by illustrating how different Open Source Teams support Micro-Enterprises. By learning about the benefits of Platform Ecosystems, Micro-Enterprises will gain clarity, focus, productivity, and creativity. The Digital Twin Wallet will also serve as an educational tool for High School Students, teaching them how to leverage platform ecosystems and open source executives to gain agency over their communities.
+We want to create a Digital Twin Wallet for oS3’s B.0.9.3. This will be a helpful tool for Micro-Enterprises to visualise and understand the Open Source Executives they can use. The Digital Twin Wallet will be like a content wallet or blog, with 3D models that show how Open Source Teams can benefit Micro-Enterprises. We want to teach Micro-Enterprises and High School Students about the advantages of Platform Ecosystems, which can give them more clarity, focus, productivity, and creativity. It’s a new and exciting concept, so we think Digital Twin Wallets will be a great way to introduce these ideas and help people gain agency over their communities.
 
-\## Project Objectives
+### Project Objectives
 
-1\. Develop comprehensive documentation for the Digital Twin Wallet, covering all aspects of its creation and usage.
+* Create a Digital Twin Wallet that visually represents Open Source Executives for Micro-Enterprises.
+* Onboard Open Source Executives by making 3D models that show their impact.
+* Educate Micro-Enterprises and High School Students about Platform Ecosystems and their benefits.
 
-2\. Create a step-by-step guide for Micro-Enterprises to build their Digital Twin Wallets using user-friendly tools.
+### Project Requirements
 
-3\. Develop educational content to explain the benefits of Platform Ecosystems and how they can enhance business operations.
+We will create digital twins using different software, starting with user-friendly options like Spline and then moving on to more advanced tools like Blender Archviz and BlenderBIM, which is the industry standard. For the wallets, we will start with Substack and then migrate to Web5, which works with Bitcoin and Decentralized platforms.
 
-4\. Ensure the documentation is accessible and understandable for both Micro-Enterprises and High School Students.
+### Project Scope Description
 
-5\. Incorporate feedback from initial users to continuously improve the documentation.
+This project includes creating the Digital Twin Wallet documentation, choosing the right software, and making it accessible to Micro-Enterprises and High School Students.
 
-\## Project Requirements
+### Project Exclusions
 
-1\. Develop digital twins in stages with increasing levels of complexity:
+We won't be developing the Open Source Executives themselves or integrating the Digital Twin Wallet into existing operations. We're also not focusing on marketing or promotion beyond education.
 
-&#x20;   \- Start with Spline for its user-friendly interface.
+### Project Constraints
 
-&#x20;   \- Progress to Blender Archviz for high-quality visualizations.
+* We will only use open-source software and tools.
+* We will follow the stages mentioned, starting simple and gradually increasing complexity.
+* We will work within a set timeframe and budget (to be decided).
 
-&#x20;   \- Ultimately, utilize BlenderBIM for industry-standard IFC (Industry Foundation Classes) integration.
+### Project Assumptions
 
-2\. Create wallets in stages with increasing levels of complexity:
+* Micro-Enterprises and High School Students are keen to learn about Platform Ecosystems and Open Source Executives.
+* The software we choose will be effective for creating the Digital Twin Wallet and wallets.
+* Our project team has the skills needed to deliver high-quality results.
 
-&#x20;   \- Begin with Substack as the initial platform for the wallet.
+### Project Deliverables
 
-&#x20;   \- Migrate to a Web5 Wallet for integration with Bitcoin and decentralized platforms.
-
-3\. Ensure the documentation includes detailed instructions, visuals, and examples.
-
-\## Project Scope Description
-
-The scope of this project includes the development of detailed documentation for the creation and use of the B.0.9.3 Digital Twin Wallet. This documentation will guide Micro-Enterprises through the process of building their Digital Twin Wallets, starting with basic tools and progressing to more advanced platforms. The scope also includes the creation of educational materials to help users understand the benefits of Platform Ecosystems and how to integrate Open Source Executives into their operations. Additionally, the project will focus on making the documentation accessible to High School Students to promote early understanding of these concepts.
-
-\## Project Exclusions
-
-1\. Development of the actual Digital Twin Wallet software.
-
-2\. Customization of the Digital Twin Wallet for individual Micro-Enterprises.
-
-3\. Training sessions or workshops beyond the provided documentation.
-
-4\. Ongoing support and maintenance of the Digital Twin Wallets created by users.
-
-\## Project Constraints
-
-1\. Limited budget for documentation development and design.
-
-2\. Tight deadlines to align with the release schedule of oS3 B.0.9.3.
-
-3\. Availability of subject matter experts for input and review.
-
-4\. Ensuring compatibility with various platforms and tools used by Micro-Enterprises.
-
-\## Project Assumptions
-
-1\. Users have basic technical knowledge and can follow detailed instructions.
-
-2\. Sufficient resources (time, budget, and personnel) are available to complete the documentation.
-
-3\. The tools and platforms chosen (Spline, Blender Archviz, BlenderBIM, Substack, Web5) will remain stable and accessible throughout the project.
-
-4\. Initial feedback from users will be provided in a timely manner for iterative improvements.
-
-\## Project Deliverables
-
-1\. Comprehensive Digital Twin Wallet documentation, including:
-
-&#x20;   \- Step-by-step guides for different stages of wallet creation.
-
-&#x20;   \- Visual aids and examples for clarity.
-
-&#x20;   \- Educational content on Platform Ecosystems.
-
-2\. A feedback mechanism for users to provide input on the documentation.
-
-3\. Periodic updates to the documentation based on user feedback and new developments in the tools and platforms used.
-
-4\. Finalized documentation ready for release in alignment with oS3 B.0.9.3 launch.
-
-Let me know if there are any specific areas you'd like to adjust or if you need further details on any section!
+* Digital Twin Wallet documentation.
+* 3D models of Open Source Executives.
+* Wallets made with Substack and Web5.
+* Educational resources for Micro-Enterprises and High School Students.
