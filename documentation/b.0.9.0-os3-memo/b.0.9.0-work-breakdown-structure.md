@@ -2,53 +2,41 @@
 
 ## Work Breakdown Structure (WBS) for oS3 B.0.9.0 Onboarding (Investment) Memo&#x20;
 
-#### Strategic Definition:&#x20;
+#### Day 0:&#x20;
 
 * **A.2.7 Investment Platform:** Define the purpose and functionality of the Micro-Enterprise's platform ecosystem.&#x20;
-
-#### Preparation & Briefing:&#x20;
-
 * B.0.9 Onboarding Platform: Explain the role and impact of the supply chain platform within the ecosystem.&#x20;
 * B.9.0 Training Platform: Describe the manufacturing platform's contribution to the overall ecosystem.&#x20;
 * C.1.8 Governance Platform: Elaborate on the community development platform's role and benefits.&#x20;
 
-#### Concept Design:&#x20;
+#### Day 1:&#x20;
 
 * D.8.1.0 Management Platform: Identify and discuss the problem the Micro-Enterprise aims to solve.&#x20;
   * D.8.1.1 Work Breakdown Structures: Outline the industry's current task flow and processes related to the problem.&#x20;
   * D.8.1.2 Schedules: Determine the typical timeline for the industry to address the problem.&#x20;
   * D.8.1.3 Logistics: Explain how resources move within the supply chain and between companies.&#x20;
-
-#### Spatial Coordination:&#x20;
-
 * E.7.2.0 Design Platform: Propose solutions to the identified problem.&#x20;
   * E.7.2.1 Research: Discuss traction achieved so far and key revenue drivers.&#x20;
   * E.7.2.2 Drawings: Visualize and analyze essential metrics such as churn, ACV, and rake.&#x20;
   * E.7.2.3 Specifications: Describe the go-to-market strategy and any unique aspects.&#x20;
 
-#### Technical Design:&#x20;
+#### Day 2:&#x20;
 
 * F.6.3.0 Marketing Platform: Explain how solving the problem will impact user behavior.&#x20;
   * F.6.3.1 Risks: Identify risks hindering faster growth.&#x20;
   * F.6.3.2 Contingencies: Outline how funding will mitigate these risks.&#x20;
   * F.6.3.3 Campaigns: Discuss promotional strategies for risk mitigation.&#x20;
-
-#### Manufacturing and Construction:&#x20;
-
 * G.5.4.0 Sales Platform: Clarify the monetization strategy for the platform ecosystem.&#x20;
   * G.5.4.1 Proposals: Define the target customer segment and their characteristics.&#x20;
   * G.5.4.2 Financials: Detail past and current funding rounds, and future funding needs.&#x20;
   * G.5.4.3 Case Studies: Explain how the raised funds will be allocated and the expected impact.&#x20;
 
-#### Handover:&#x20;
+#### Day 3:&#x20;
 
 * H.4.5.0 Publishing Platform: Assess the market opportunity and potential impact.&#x20;
   * H.4.5.1 Theories: Predict market changes resulting from the Micro-Enterprise's activities.&#x20;
   * H.4.5.2 Experiments: Outline the process to influence market trends.&#x20;
   * H.4.5.3 Reports: Describe the anticipated trajectory of the company within the market.&#x20;
-
-#### Use:&#x20;
-
 * I.3.6.0 Storytelling Platform: Develop the Micro-Enterprise's unique value proposition.&#x20;
   * I.3.6.1 Worldbuilding: Analyze the competitive landscape.&#x20;
   * I.3.6.2 Settings: Address frequently asked questions and provide compelling responses.&#x20;
