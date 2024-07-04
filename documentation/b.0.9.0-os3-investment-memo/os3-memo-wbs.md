@@ -42,7 +42,7 @@
 * E.7.2.0: Solutions
 * E.7.2.1: Traction & Revenue Drivers
 * E.7.2.2: Essential Metrics&#x20;
-* E.7.2.3:  Specifications: Describe the go-to-market strategy and any unique aspects.&#x20;
+* E.7.2.3:  Go-To-Market Strategy
 
 ***
 
