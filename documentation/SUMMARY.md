@@ -2,11 +2,11 @@
 
 * [INTRODUCTION](README.md)
 
-## B.0.9.0 oS3 Memo
+## B.0.9.0 oS3 Investment Memo
 
-* [B.0.9.0 Scope Statement](b.0.9.0-os3-memo/b.0.9.0-scope-statement.md)
-* [B.0.9.0 Work Breakdown Structure](b.0.9.0-os3-memo/b.0.9.0-work-breakdown-structure.md)
-* [B.0.9.0 WBS Dictionary](b.0.9.0-os3-memo/b.0.9.0-wbs-dictionary.md)
+* [oS3 Memo Scope Statement](b.0.9.0-os3-investment-memo/os3-memo-scope-statement.md)
+* [oS3 Memo WBS](b.0.9.0-os3-investment-memo/os3-memo-wbs.md)
+* [oS3 Memo WBS Dictionary](b.0.9.0-os3-investment-memo/os3-memo-wbs-dictionary.md)
 
 ## B.0.9.1 Open Source AI Assistants
 

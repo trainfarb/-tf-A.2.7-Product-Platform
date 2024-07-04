@@ -1,6 +1,4 @@
-# B.0.9.0 Scope Statement
-
-## Scope Statement: oS3 B.0.9.0 Onboarding (Investment) Memo&#x20;
+# oS3 Memo Scope Statement
 
 ### Project Overview:&#x20;
 
