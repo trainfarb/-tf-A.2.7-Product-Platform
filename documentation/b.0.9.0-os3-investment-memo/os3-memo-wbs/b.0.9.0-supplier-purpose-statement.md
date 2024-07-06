@@ -186,7 +186,9 @@ List any Start Dates, End Dates, Intermediate Milestones, Interdependencies, Con
 
 Open this FigJam file to work through the milestones for completing your platform purpose statement.
 
-(INSERT FILE)
+{% embed url="https://www.figma.com/community/file/1391274883022564290/a-2-7-0-owner-investment-memo-workshop-template" %}
+FigJam File for working through each of the milestones for this step
+{% endembed %}
 
 Here is the transformation of creating a platform PRODUCER purpose statement into distinct stages based on the RIBA Plan of Work:
 
@@ -289,4 +291,6 @@ Define how your project team will sign off on the work associated with this Work
 
 Complete the following form to approve the work of the platform design engineer who's helping create your investment memo.
 
-(INSERT LINK HERE)
+{% embed url="https://docs.google.com/forms/d/e/1FAIpQLSfdtQgdMYi00QRd5YU-nA5PSKexD5kYZAD-HCTHLR3GoKwFSQ/viewform?usp=sf_link" %}
+Approval Form for completing this step
+{% endembed %}
