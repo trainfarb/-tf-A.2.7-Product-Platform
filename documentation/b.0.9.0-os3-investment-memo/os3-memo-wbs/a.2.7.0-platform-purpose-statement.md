@@ -1,6 +1,6 @@
 ---
 description: >-
-  In this section, you will define the purpose statement for your
+  In this section, you will define and approve the purpose statement for your
   Μicro-Enterprise's platform. Bring clarity to your purpose statement by
   defining your target audience and primary service.
 ---
@@ -183,6 +183,10 @@ By offering a range of pricing options, we ensure that Micro-Enterprises at vari
 List any Start Dates, End Dates, Intermediate Milestones, Interdependencies, Constraints and any assumption for the deliverables.
 {% endhint %}
 
+Open this FigJam file to work through the milestones for completing your platform purpose statement.
+
+{% embed url="https://www.figma.com/community/file/1391274883022564290/a-2-7-0-platform-purpose-statement-workshop" %}
+
 1. **Strategic Definition (RIBA Stage 0)**:
    * Feasibility Assessment: Evaluate the investment opportunity and define the platform's purpose, target audience, and financial objectives. This stage involves market analysis and strategic planning to ensure the platform's viability.
    * Output: A clear understanding of the platform's purpose, target market, and financial projections to support the investment memo.
@@ -265,9 +269,9 @@ Recognize that the purpose statement may evolve over time. Regularly review and 
 ## Approvals
 
 {% hint style="info" %}
-Define how your project team will sign off on the work associated with this Work Breakdown Structure Package before moving on to the next step
+Define how your project team will sign off on the work associated with this Work Breakdown Structure Package before moving on to the next step.
 {% endhint %}
 
-{% embed url="https://docs.google.com/document/d/1wLm2DDonixvMMLQKB7_0OJ0_ds5Z98h7sK_PApfpS00/edit?usp=sharing" fullWidth="false" %}
-Sign this Approvals Document before moving onto the next step
-{% endembed %}
+Complete the following form to approve the work of the platform design engineer who's helping create your investment memo.
+
+{% embed url="https://docs.google.com/forms/d/e/1FAIpQLSePGmcVG8j-9jtbd1M0TVlRZt6VpCwm_8bByk1pbj-acDgQcQ/viewform?usp=sf_link" %}
