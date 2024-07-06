@@ -1,4 +1,11 @@
-# A.2.7.0 OWNER Purpose
+---
+description: >-
+  In this section, you will define the purpose statement for your
+  Μicro-Enterprise's platform. Bring clarity to your purpose statement by
+  defining your target audience and primary service.
+---
+
+# A.2.7.0 Platform Purpose Statement
 
 ## WBS Code
 
@@ -6,7 +13,7 @@
 What is the Work Breakdown Structure (WBS) Code for this stage of your **\[Investment Memo's]** development?
 {% endhint %}
 
-A.2.7.0 OWNER Purpose
+A.2.7.0 Platform (OWNER) Purpose Statement
 
 ## Responsible Platform
 
@@ -24,7 +31,7 @@ Define Work Package boundaries. Frame the scope content so that it is clear what
 
 #### What do you do?
 
-We enable **Μicro-Enterprises** to participate in the future of **Platform Purpose Statements**.
+We enable **Μicro-Enterprises** to participate in the future of **Platform (OWNER) Purpose Statements**.
 
 Our first step is to establish the purpose of your platform, which will provide a clear direction for your Μicro-Enterprise and potential investors. By defining a simple and direct tagline, you'll articulate your target audience and the primary service they can expect. This crucial step ensures that your platform's mission is transparent, attracting the right investors and fostering meaningful connections. This clarity of purpose will be the foundation for all subsequent steps in creating a compelling investment memo.
 

@@ -6,7 +6,7 @@
 
 * [oS3 Memo Scope Statement](b.0.9.0-os3-investment-memo/os3-memo-scope-statement.md)
 * [oS3 Memo WBS](b.0.9.0-os3-investment-memo/os3-memo-wbs/README.md)
-  * [A.2.7.0 OWNER Purpose](b.0.9.0-os3-investment-memo/os3-memo-wbs/a.2.7.0-owner-purpose.md)
+  * [A.2.7.0 Platform Purpose Statement](b.0.9.0-os3-investment-memo/os3-memo-wbs/a.2.7.0-platform-purpose-statement.md)
 * [oS3 Memo WBS Dictionary](b.0.9.0-os3-investment-memo/os3-memo-wbs-dictionary.md)
 
 ## B.0.9.1 Open Source AI Assistants
