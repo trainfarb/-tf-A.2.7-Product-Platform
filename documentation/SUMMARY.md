@@ -6,6 +6,7 @@
 
 * [oS3 Memo Scope Statement](b.0.9.0-os3-investment-memo/os3-memo-scope-statement.md)
 * [oS3 Memo WBS](b.0.9.0-os3-investment-memo/os3-memo-wbs/README.md)
+  * [Creating a frameWorkbook](b.0.9.0-os3-investment-memo/os3-memo-wbs/creating-a-frameworkbook.md)
   * [A.2.7.0 Platform Purpose Statement](b.0.9.0-os3-investment-memo/os3-memo-wbs/a.2.7.0-platform-purpose-statement.md)
   * [B.0.9.0 Supplier Purpose Statement](b.0.9.0-os3-investment-memo/os3-memo-wbs/b.0.9.0-supplier-purpose-statement.md)
 * [oS3 Memo WBS Dictionary](b.0.9.0-os3-investment-memo/os3-memo-wbs-dictionary.md)
