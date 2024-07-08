@@ -16,6 +16,7 @@
 * [B.0.9.1 Scope Statement](b.0.9.1-open-source-ai-assistants/b.0.9.1-scope-statement.md)
 * [B.0.9.1 Work Breakdown Structure](b.0.9.1-open-source-ai-assistants/b.0.9.1-work-breakdown-structure/README.md)
   * [Creating Meta-Prompts](b.0.9.1-open-source-ai-assistants/b.0.9.1-work-breakdown-structure/creating-meta-prompts.md)
+  * [Creating oS3 AI Assistant Prompts](b.0.9.1-open-source-ai-assistants/b.0.9.1-work-breakdown-structure/creating-os3-ai-assistant-prompts.md)
 * [B.0.9.1 WBS Dictionary](b.0.9.1-open-source-ai-assistants/b.0.9.1-wbs-dictionary.md)
 
 ## B.0.9.2 Operating System Websites
