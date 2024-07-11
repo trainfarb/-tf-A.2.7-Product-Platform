@@ -1,6 +1,6 @@
 # Table of contents
 
-* [INTRODUCTION](README.md)
+* [What is polymathProcess?](README.md)
 
 ## B.0.9.0 oS3 Investment Memo
 
